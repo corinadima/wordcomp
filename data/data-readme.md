@@ -1,0 +1,1 @@
+The `data` folder is where all the composition datasets should reside. Each dataset should be placed in its own subfolder. 
